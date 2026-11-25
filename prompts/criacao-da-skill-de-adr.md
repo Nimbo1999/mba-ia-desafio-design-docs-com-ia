@@ -33,5 +33,5 @@ Crie uma skill que define o processo de criação de um documento ADR que siga o
 2. O documento ADR deve possuir todas as seções obrigatórias.
 3. O agente deve consultar o código existente e a transcrição da reunião antes de escrever o ADR.
 4. Evite palavras complexas e mantenha os padrões de uma leitura rápida e de fácil entendimento.
-5. Cada item do ADR deve ter um ID visível, seguindo o catálogo da skill `tracker`: `ADR-NNN` (decisão), `ADR-NNN-ALT-NN` (alternativa), `ADR-NNN-TO-NN` (trade-off).
-6. Ao terminar de criar ou atualizar um ADR, invoque a skill `tracker` para atualizar o `docs/TRACKER.md`.
+5. Cada item do ADR deve ter um ID visível, seguindo o catálogo da skill `to-tracker`: `ADR-NNN` (decisão), `ADR-NNN-ALT-NN` (alternativa), `ADR-NNN-TO-NN` (trade-off).
+6. Ao terminar de criar ou atualizar um ADR, invoque a skill `to-tracker` para atualizar o `docs/TRACKER.md`.

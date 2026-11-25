@@ -1,5 +1,5 @@
 ---
-name: tracker
+name: to-tracker
 description: Cria ou atualiza o docs/TRACKER.md, a tabela que liga cada item dos documentos à sua origem na transcrição ou no código. Use SEMPRE que criar ou alterar um PRD, RFC, FDD ou ADR (docs/PRD.md, docs/RFC.md, docs/FDD.md, docs/adrs/*.md), e quando o usuário pedir para montar, revisar ou auditar o tracker.
 ---
 
@@ -129,4 +129,4 @@ Requisito Funcional · Requisito Não Funcional · Decisão · Restrição · Tr
 ## Para quem escreve PRD, RFC, FDD ou ADR
 
 1. Escreva o ID ao lado de cada item identificável, usando o catálogo acima (ex.: `**PRD-FR-01** — ...`).
-2. Ao terminar de criar ou atualizar o documento, invoque a skill `tracker`.
+2. Ao terminar de criar ou atualizar o documento, invoque a skill `to-tracker`.
