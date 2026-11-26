@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Escopo
 
-- `docs/` guarda a documentação do projeto. As skills em `.claude/skills/` instruções sobre como escrever e estruturar cada documento de design do projeto.
+- `docs/` guarda a documentação do projeto. As skills em `.claude/skills/` trazem instruções sobre como escrever e estruturar cada documento de design do projeto.
 
 ## Stack
 
